@@ -30,6 +30,7 @@ Example 2: python3 fchess.py boards/default nint ai01 3 ai02 3 >> output.txt
 ## License
 
 fchess 1.0
+
 Copyright (C) 2020 Felipe V. Calderan <fvcalderan@gmail.com>
  
 This program is free software: you can redistribute it and/or modify
